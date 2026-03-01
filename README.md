@@ -16,7 +16,7 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Visitas%20no%20perfil&color=0e75b6&style=for-the-badge" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=Mateusoliiveiiira&label=Visitas%20no%20perfil&color=0e75b6&style=for-the-badge" alt="visitor counter" />
 </p>
 
 
